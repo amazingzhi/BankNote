@@ -1,0 +1,21 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+env/
+
+# Ignore editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Ignore dependency files
+pip-log.txt
+pip-delete-this-directory.txt
