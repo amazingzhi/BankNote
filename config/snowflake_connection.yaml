@@ -1,0 +1,8 @@
+# snowflake_connection.yaml
+snowflake:
+  account: "YDBIUVB-LH80680"
+  user: "AMAZINGZHI"
+  password: "Amazingzhi3311"
+  warehouse: "COMPUTE_WH"
+  database: "BANK_NOTE"
+  schema: "PUBLIC"

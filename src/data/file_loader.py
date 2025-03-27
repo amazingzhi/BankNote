@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 
-def read_csv(file_name, base_path='../data/raw'):
+def read_csv(file_name, base_path='../../data/'):
     """
     Reads a CSV file from the specified base path.
 
@@ -20,7 +20,7 @@ def read_csv(file_name, base_path='../data/raw'):
         raise
 
 
-def read_txt(file_name, base_path='../data/raw'):
+def read_txt(file_name, base_path='../../data/'):
     """
     Reads a text file from the specified base path.
 
